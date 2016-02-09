@@ -31,7 +31,6 @@ public class Command_Put extends JavaPlugin implements Listener {
 			if(player.getItemInHand().equals(Material.COMMAND)) {
 				World world = getServer().getWorld(event.getClickedBlock().getWorld().toString());
 				Block block = event.getClickedBlock();
-
 			}
 		}
 	}
