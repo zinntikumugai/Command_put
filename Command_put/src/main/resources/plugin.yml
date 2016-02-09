@@ -1,0 +1,4 @@
+name: Command_put
+main: com.github.zinntikumugai.command_put.Command_Put
+version: 0.0.1
+author: zinntikumugai
